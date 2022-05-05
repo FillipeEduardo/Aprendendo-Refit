@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "+k9nbNRANJu+sflitu+MeT4Glw3Z0cQyS3W8vmuMBMPK1yWkTpU5NKu24Kp/H+9EFr6JFNAeNgwnpM6DBOoQpg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ext.fillipeeos\\Desktop\\AprendendoRefit\\AprendendoRefit.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ext.fillipeeos\\.nuget\\packages\\refit\\6.3.2\\refit.6.3.2.nupkg.sha512",
+    "C:\\Users\\ext.fillipeeos\\.nuget\\packages\\system.net.http.json\\6.0.0\\system.net.http.json.6.0.0.nupkg.sha512",
+    "C:\\Users\\ext.fillipeeos\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\ext.fillipeeos\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
+    "C:\\Users\\ext.fillipeeos\\.nuget\\packages\\system.text.json\\6.0.0\\system.text.json.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+C:\Users\ext.fillipeeos\Desktop\AprendendoRefit\bin\Debug\net6.0\AprendendoRefit.exe
+C:\Users\ext.fillipeeos\Desktop\AprendendoRefit\bin\Debug\net6.0\AprendendoRefit.deps.json
+C:\Users\ext.fillipeeos\Desktop\AprendendoRefit\bin\Debug\net6.0\AprendendoRefit.runtimeconfig.json
+C:\Users\ext.fillipeeos\Desktop\AprendendoRefit\bin\Debug\net6.0\AprendendoRefit.dll
+C:\Users\ext.fillipeeos\Desktop\AprendendoRefit\bin\Debug\net6.0\AprendendoRefit.pdb
+C:\Users\ext.fillipeeos\Desktop\AprendendoRefit\obj\Debug\net6.0\AprendendoRefit.csproj.AssemblyReference.cache
+C:\Users\ext.fillipeeos\Desktop\AprendendoRefit\obj\Debug\net6.0\AprendendoRefit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ext.fillipeeos\Desktop\AprendendoRefit\obj\Debug\net6.0\AprendendoRefit.AssemblyInfoInputs.cache
+C:\Users\ext.fillipeeos\Desktop\AprendendoRefit\obj\Debug\net6.0\AprendendoRefit.AssemblyInfo.cs
+C:\Users\ext.fillipeeos\Desktop\AprendendoRefit\obj\Debug\net6.0\AprendendoRefit.csproj.CoreCompileInputs.cache
+C:\Users\ext.fillipeeos\Desktop\AprendendoRefit\obj\Debug\net6.0\AprendendoRefit.dll
+C:\Users\ext.fillipeeos\Desktop\AprendendoRefit\obj\Debug\net6.0\refint\AprendendoRefit.dll
+C:\Users\ext.fillipeeos\Desktop\AprendendoRefit\obj\Debug\net6.0\AprendendoRefit.pdb
+C:\Users\ext.fillipeeos\Desktop\AprendendoRefit\obj\Debug\net6.0\AprendendoRefit.genruntimeconfig.cache
+C:\Users\ext.fillipeeos\Desktop\AprendendoRefit\obj\Debug\net6.0\ref\AprendendoRefit.dll
+C:\Users\ext.fillipeeos\Desktop\AprendendoRefit\bin\Debug\net6.0\Refit.dll
+C:\Users\ext.fillipeeos\Desktop\AprendendoRefit\obj\Debug\net6.0\AprendendoRefit.csproj.CopyComplete
